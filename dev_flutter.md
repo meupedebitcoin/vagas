@@ -21,3 +21,6 @@
 ## Remuneração / Contrato
 - Contrato PJ (Não é temporário).
 - 5K ~ 7K BRL  a depender do nível.
+
+## Como aplicar?
+> Envie seu currículo para `tecnologiampb@gmail.com`. Junto com ele mande o seu link do GitHub e Linkedin. E compartilhe conosco algo que ache importante e legal! ;D
