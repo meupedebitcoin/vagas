@@ -13,6 +13,7 @@
 ### Pontos bônus
 - Experiência com Nativescript.
 - Experiência com Firebase.
+- Projetos Opensource.
 - Conhecer e entender Shape up.
 
 ## Como funcionamos?
